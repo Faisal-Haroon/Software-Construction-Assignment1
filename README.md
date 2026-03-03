@@ -6,4 +6,4 @@
 By:
 
 Faisal
-BSSE Student
+BS Software engineering Student
